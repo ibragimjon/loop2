@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(64, 192, 117);
+    
+}
+.container{
+    background-color: #FFF;
+    width: 50%;
+    height: 70%;
+    padding: 50px 70px 0px 70px;
+    
+}
+.container-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item-heading {
+}
+.item-img {
+}
+.money-cnt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
